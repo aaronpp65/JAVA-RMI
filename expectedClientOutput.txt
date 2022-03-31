@@ -1,0 +1,37 @@
+Elements in Stack: [10]
+Pushed value 10
+Elements in Stack: [10, 9]
+Pushed value 9
+Elements in Stack: [10, 9, 4]
+Pushed value 4
+Elements in Stack: [10, 9, 4, 2]
+Pushed value 2
+Elements in Stack: [10, 9, 4, 2, 8]
+Pushed value 8
+Elements in Stack: [10, 9, 4, 2, 8, 6]
+Pushed value 6
+Elements in Stack: [10, 9, 4, 2, 8, 6, 3]
+Pushed value 3
+ascending
+Elements in Stack: [10, 9, 8, 6, 4, 3, 2]
+Completed operation ascending
+descending
+Elements in Stack: [2, 3, 4, 6, 8, 9, 10]
+Completed operation descending
+Elements in Stack: [2, 3, 4, 6, 8, 9]
+Popped value 10
+Elements in Stack: [2, 3, 4, 6, 8]
+Popped value 9with a delay of 3000 milliseconds
+Stack empty false
+max
+Elements in Stack: [8]
+Completed operation max
+Elements in Stack: [8, 4]
+Pushed value 4
+Elements in Stack: [8, 4, 2]
+Pushed value 2
+Elements in Stack: [8, 4, 2, 8]
+Pushed value 8
+min
+Elements in Stack: [2]
+Completed operation min
